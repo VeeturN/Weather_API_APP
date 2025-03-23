@@ -7,6 +7,7 @@ import java.io.*;
 import java.net.*;
 
 public class SimpleGetUrlContent {
+
     private URL urlPath;
     JSONObject json=null;
     public SimpleGetUrlContent(String url) throws MalformedURLException {
