@@ -8,6 +8,7 @@ public class Main {
         Double rate2 = s.getNBPRate();
         // ...
         // część uruchamiająca GUI
+        System.out.println("DZIEŃ DOBRY");
 
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
