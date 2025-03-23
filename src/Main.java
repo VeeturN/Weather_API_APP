@@ -11,6 +11,7 @@ public class Main {
         // ...
         // część uruchamiająca GUI
         System.out.println("DZIEŃ DOBRY");
+        System.out.println("DZIEŃ DOBRY");
 
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
